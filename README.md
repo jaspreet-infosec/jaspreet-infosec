@@ -4,7 +4,10 @@
 **jaspreet-infosec/jaspreet-infosec** is a ✨  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+--><!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 ## About Me
 
 I specialize in Web, Mobile, Cloud, and DevOps Security, with a strong focus on identifying real-world vulnerabilities and helping organizations harden their defenses.
