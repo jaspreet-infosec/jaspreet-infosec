@@ -59,5 +59,3 @@ Feel free to reach out for collaboration, questions, or just to chat about cyber
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### Profile visits
-[![](https://visitcount.itsvg.in/api?id=jaspreet-infosec&icon=0&color=5)](https://visitcount.itsvg.in)
