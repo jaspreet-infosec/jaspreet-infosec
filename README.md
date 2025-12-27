@@ -7,15 +7,15 @@ Here are some ideas to get you started:
 -->
 ## About Me
 
-🔭 Currently delving deep into the realms of penetration testing and vulnerability assessment.
+I specialize in Web, Mobile, Cloud, and DevOps Security, with a strong focus on identifying real-world vulnerabilities and helping organizations harden their defenses.
 
-🌱 Ever the explorer, I'm on a quest to discover the latest tools and techniques in cybersecurity and penetration testing.
+🔭 Currently immersed in penetration testing, vulnerability research, and offensive security assessments, constantly refining my skills against modern attack surfaces.
 
-👯 Seeking partners in cybercrime... I mean, collaboration! Let's team up on CTF challenges and chase bug bounties together!
+🌱 A lifelong learner, always exploring the latest exploitation techniques, security tools, and adversary tactics to stay ahead in an ever-evolving threat landscape.
 
-💬 Passionate about all things penetration testing, bug bounty programs, CTFs, and even a bit of DevOps magic. Let's have a nerdy chat!
+👯 Open to collaboration on CTFs, bug bounty programs, security research, and offensive security projects. If it involves breaking things legally, I’m in.
 
-📫 Drop me a line at [Email](mailto:jaspreetauthentic@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/jaspreet-infosec/). Let's make the digital world a safer place, one vulnerability at a time!
+💬 Passionate about pentesting, bug bounties, CTFs, and secure DevOps & cloud architectures. Always happy to exchange knowledge and ideas.
 
 ## Tools & Technologies
 
@@ -41,8 +41,6 @@ Here are some of the tools and technologies I work with:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaspreet-infosec) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaspreet-infosec) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jaspreet-infosec) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaspreet-infosec) 
 Feel free to reach out for collaboration, questions, or just to chat about cybersecurity and all things tech!
-
-
 
 
 # 💻 Tech Stack:
