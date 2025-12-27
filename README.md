@@ -58,6 +58,14 @@ I am a **Cybersecurity Professional** specializing in **Web, Mobile, Cloud, and 
 ---
 
 ## 💻 Tech Stack
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,github,docker,kubernetes,helm,terraform,ansible,jenkins,githubactions,aws,azure,gcp,cloudflare,nginx,prometheus,grafana,datadog,elasticsearch,kibana,wireshark,burpsuite,kali,snyk,sonarqube,keycloak,python,flask,fastapi,django,djangorestframework,pytest,numpy,pandas,matplotlib,scipy,scikitlearn,pytorch,tensorflow,jupyter,sqlalchemy,postgresql,mysql,mongodb,redis,graphql,postman,swagger,html,css,javascript,react,nodejs,nginx"
+    />
+  </a>
+</p>
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
