@@ -64,10 +64,7 @@ I am a **Cybersecurity & DevOps Professional** focused on building resilient sys
     <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="50" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://medium.com/@jaspreet-infosec" target="_blank">
-    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="50" />
-  </a>
-  &nbsp;&nbsp;
+
   <a href="https://instagram.com/concept.jaspreet" target="_blank">
     <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="50" />
   </a>
