@@ -1,8 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=25FF00&center=true&vCenter=true&width=800&lines=I'm+JASPREET+GREWAL;Cyber+Security+Analyst;Penetration+Tester;DevOps+Security+Engineer;Cloud+Security+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=I'M+JASPREET+GREWAL;Offensive:+Penetration+Tester;Defensive:+SOC+Analyst;Infrastructure:+Cloud+Security;Automation:+DevSecOps+Engineer;Securing+the+Full+Stack" alt="Typing SVG" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OFFENSIVE-Red_Teaming-CC0000?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEFENSIVE-SOC_Monitoring-0052CC?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLOUD-Hardening-008080?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/DEVSECOPS-CI%2FCD_Security-28A745?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ---
+
 ## 🛡️ Professional Summary
 
 <img align="right" width="300" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl Security" />
@@ -63,7 +70,7 @@ I am a **Cybersecurity & DevOps Professional** focused on building resilient sys
 
 ## 🤝 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/jaspreet-infosec/" target="_blank">
     <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="50" />
   </a>
