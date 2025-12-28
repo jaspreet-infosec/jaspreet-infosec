@@ -53,6 +53,10 @@ I am a **Cybersecurity Professional** specializing in **Web, Mobile, Cloud, and 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaspreet-infosec)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jaspreet-infosec)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/jaspreet-infosec)
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
 
 💬 *Always open to collaboration, discussions, and knowledge sharing in cybersecurity.*
 
@@ -90,8 +94,7 @@ I am a **Cybersecurity Professional** specializing in **Web, Mobile, Cloud, and 
 ![](https://nirzak-streak-stats.vercel.app/?user=jaspreet-infosec&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreet-infosec&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-<img align="center" src="https://streak-stats.demolab.com?user=jaspreet-infosec&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+---
 
 ## ✍️ Thought of the Day
 
