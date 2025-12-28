@@ -93,12 +93,6 @@ I am a **Cybersecurity Professional** specializing in **Web, Mobile, Cloud, and 
 
 <img align="center" src="https://streak-stats.demolab.com?user=jaspreet-infosec&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=jaspreet-infosec&theme=discord&no-frame=false&no-bg=true&margin-w=6)
-
----
-
 ## ✍️ Thought of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
