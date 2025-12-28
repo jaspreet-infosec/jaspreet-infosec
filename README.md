@@ -1,101 +1,85 @@
-<!-- ===================== PROFILE README ===================== -->
-
-<h1 align="center">🛡️ JAS PREET</h1>
-<h3 align="center">Cybersecurity Engineer • Penetration Tester • Cloud & DevSecOps Security</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=00FF41&center=true&vCenter=true&width=900&lines=Simulating+Attacks+to+Build+Resilient+Defenses;Red+Team+%7C+Blue+Team+%7C+Cloud+Security;Exploit.+Detect.+Harden.+Repeat." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=25FF00&center=true&vCenter=true&width=700&lines=I'm+JAS+PREET;Cyber+Security+Analyst;Penetration+Tester;Cloud+Security+Architect" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧠 About Me
-Cybersecurity professional focused on **penetration testing, vulnerability research, red teaming, and offensive security**.  
-Strong interest in **cloud security, DevSecOps, and secure architecture**, with hands‑on lab‑driven learning.
+## 🛡️ Professional Summary
+
+<img align="right" width="300" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl Security" />
+
+I am a **Cybersecurity Professional** specializing in **Web, Mobile, Cloud, and DevOps Security**. I bridge the gap between development and security by identifying critical vulnerabilities before they can be exploited.
+
+- 🔭 **Current Focus**: Red Teaming & Cloud Infrastructure Security.
+- ⚡ **Expertise**: Pentesting, Bug Bounties, and Secure CI/CD Pipelines.
+- 🧪 **Research**: Actively exploring zero-day exploitation & adversary tactics.
+- 💬 **Ask me about**: Why "security by design" is better than "security by patch."
 
 ---
 
-## 🛠️ Security Tools & Arsenal
+## 🔧 Security Arsenal
 
-### 🔴 Offensive Security
-- Metasploit, Cobalt Strike (academic), Sliver, Empire  
-- Nmap, Masscan  
-- Burp Suite, OWASP ZAP  
-- SQLMap, FFUF, Gobuster, Dirsearch  
-- Sublist3r, Amass  
-- Hydra, Medusa  
-- Hashcat, John the Ripper  
-- Aircrack-ng, Reaver  
-- Responder, Impacket  
-
-### 🔵 Defensive Security
-- Wireshark  
-- Snort, Suricata  
-- OSSEC, Wazuh  
-- Zeek  
-- ELK Stack  
-
-### ☁️ Cloud & DevSecOps Security
-- AWS, Azure, GCP  
-- Prowler, ScoutSuite  
-- Trivy, Grype, Snyk  
-- Terraform (IaC security)  
-- Kubernetes security (RBAC, workload hardening)
-
-### ⚙️ Automation & Exploit Development
-- Python  
-- Bash, PowerShell  
-- Scapy  
+| 🔴 Offensive Operations | 🔵 Defensive & Analysis | ☁️ Cloud & DevSecOps |
+| :--- | :--- | :--- |
+| **Tools:** Burp Suite, Metasploit | **Analysis:** Wireshark, Snort | **Cloud:** AWS, Azure, GCP |
+| **Web:** OWASP ZAP, SQLMap | **Vuln Mgmt:** Nessus, OpenVAS | **Ops:** Docker, K8s, Terraform |
+| **Wireless:** Aircrack-ng, Hashcat | **Audit:** Snyk, SonarQube | **CI/CD:** Jenkins, GitHub Actions |
 
 ---
 
-## 🖥️ Platforms
-- Kali Linux, Parrot Security OS  
-- Ubuntu, Debian  
-- CentOS, RHEL  
-- Windows Server & Active Directory  
-- macOS  
-- Docker, Kubernetes  
-- VMware, VirtualBox  
-- Proxmox  
-- AWS, Azure, GCP  
+## 💻 Technical Stack
 
----
+### 🚀 Core Technologies
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,kubernetes,ansible,jenkins,aws,azure,gcp,nginx,prometheus,grafana,kali,burpsuite,python,postgresql,mongodb" />
+</p>
 
-## ⚙️ Engineering & Cloud Stack
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,github,docker,kubernetes,terraform,ansible,jenkins,githubactions,aws,azure,gcp,cloudflare,nginx,prometheus,grafana,elasticsearch,kibana,python,flask,fastapi,django,postgresql,mysql,mongodb,redis,html,css,javascript,react,nodejs" />
+### ✍️ Languages & Scripting
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Activity & Insights
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaspreet-infosec&theme=vision-friendly-dark&hide_border=true&show_icons=true&count_private=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaspreet-infosec&theme=midnight-purple&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreet-infosec&theme=midnight-purple&layout=compact" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaspreet-infosec&theme=vision-friendly-dark&hide_border=true)
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/snake.svg?github_user=jaspreet-infosec&color_snake=25FF00&color_dots=bfbdbe,fbdb5c,ff9f46,fb6d4c,da2c43" alt="snake" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreet-infosec&layout=compact&theme=vision-friendly-dark&hide_border=true)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jaspreet-infosec&theme=midnight-purple&hide_border=false" />
+</p>
 
 ---
 
-## 🌐 Connect
+## 🤝 Let's Connect
 
-<p align="center">
+If you want to discuss security research, collaborate on a CTF, or just talk tech, find me here:
+
+<p align="left">
   <a href="https://www.linkedin.com/in/jaspreet-infosec/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@jaspreet-infosec">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" />
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   <a href="https://instagram.com/concept.jaspreet">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
+<br />
 
-<p align="center"><strong>Attack → Learn → Harden → Repeat</strong></p>
-
-<!-- ===================== END ===================== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaspreet-infosec&label=SECURE_ACCESS_COUNT&color=25FF00&style=flat-square" alt="Views" />
+</p>
