@@ -70,16 +70,20 @@ I am a **Cybersecurity & DevOps Professional** focused on building resilient sys
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jaspreet-infosec/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jaspreet-infosec/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://medium.com/@jaspreet-infosec">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://medium.com/@jaspreet-infosec" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" height="40" />
   </a>
-  <a href="https://instagram.com/concept.jaspreet">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/concept.jaspreet" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
   </a>
 </p>
+
+<br />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaspreet-infosec&label=SECURE_ACCESS_COUNT&color=25FF00&style=flat-square" alt="Views" />
