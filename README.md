@@ -84,15 +84,12 @@ I am a **Cybersecurity Professional** specializing in **Web, Mobile, Cloud, and 
 
 ---
 
-## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=jaspreet-infosec&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jaspreet-infosec&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jaspreet-infosec&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreet-infosec&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=jaspreet-infosec&theme=midnight-purple&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreet-infosec&theme=midnight-purple&hide_border=false&layout=compact)
-
----
 
 <img align="center" src="https://streak-stats.demolab.com?user=jaspreet-infosec&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
 
@@ -105,9 +102,3 @@ I am a **Cybersecurity Professional** specializing in **Web, Mobile, Cloud, and 
 ## ✍️ Thought of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
