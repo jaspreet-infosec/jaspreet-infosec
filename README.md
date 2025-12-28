@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=25FF00&center=true&vCenter=true&width=700&lines=I'm+JAS+PREET;Cyber+Security+Analyst;Penetration+Tester;DevOps+Security+Engineer;Cloud+Security+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=25FF00&center=true&vCenter=true&width=700&lines=I'm+JASPREET+GREWAL;Cyber+Security+Analyst;Penetration+Tester;DevOps+Security+Engineer;Cloud+Security+Architect" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,11 +19,15 @@ I am a **Cybersecurity & DevOps Professional** focused on building resilient sys
 
 ## 🏅 Certifications & Achievements
 <p align="left">
-  <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-326790?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cybersec" />
-  <img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Sol Arch" />
-  <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/-AWS%20DevOps-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps" />
-  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/-IBM%20Cybersecurity-326790?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Azure%20Security-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS%20DevOps-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/-EC--Council-000000?style=for-the-badge&logo=ec-council&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
 </p>
 
 ---
@@ -38,10 +42,10 @@ I am a **Cybersecurity & DevOps Professional** focused on building resilient sys
 
 ---
 
-## 💻 Tech Stack (Multi-Domain)
+## 💻 Tech Stack 
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,kali,burpsuite,py,flask,fastapi,qt,sklearn,tensorflow,postgres,mongodb,docker,kubernetes,aws,gcp,azure,jenkins,githubactions,ansible,terraform,splunk,git,github,vscode,postman,cloudflare" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,kali,burpsuite,py,flask,fastapi,qt,sklearn,tensorflow,postgres,mongodb,docker,kubernetes,aws,gcp,azure,jenkins,githubactions,ansible,terraform,git,github,vscode,postman,cloudflare" />
 </p>
 
 ### ✍️ Scripting & Automation
@@ -66,25 +70,19 @@ I am a **Cybersecurity & DevOps Professional** focused on building resilient sys
 </p>
 
 ---
-
-## 🤝 Let's Connect
+### 🤝 Connect with me:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jaspreet-infosec/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="LinkedIn" width="43px"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://medium.com/@jaspreet-infosec" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Medium" width="43px"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/concept.jaspreet" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Instagram" width="43px"/>
   </a>
 </p>
-
-<br />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaspreet-infosec&label=SECURE_ACCESS_COUNT&color=25FF00&style=flat-square" alt="Views" />
-</p>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
