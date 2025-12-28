@@ -1,40 +1,50 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=25FF00&center=true&vCenter=true&width=700&lines=I'm+JAS+PREET;Cyber+Security+Analyst;Penetration+Tester;Cloud+Security+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=25FF00&center=true&vCenter=true&width=700&lines=I'm+JAS+PREET;Cyber+Security+Analyst;Penetration+Tester;DevOps+Security+Engineer;Cloud+Security+Architect" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🛡️ Professional Summary
 
-<img align="right" width="300" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl Security" />
+<img align="right" width="280" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="Night Owl Security" />
 
-I am a **Cybersecurity Professional** specializing in **Web, Mobile, Cloud, and DevOps Security**. I bridge the gap between development and security by identifying critical vulnerabilities before they can be exploited.
+I am a **Cybersecurity & DevOps Professional** focused on building resilient systems. My expertise spans across **Offensive Security**, **Automated CI/CD Pipelines**, and **Data-Driven Threat Intelligence**.
 
-- 🔭 **Current Focus**: Red Teaming & Cloud Infrastructure Security.
-- ⚡ **Expertise**: Pentesting, Bug Bounties, and Secure CI/CD Pipelines.
-- 🧪 **Research**: Actively exploring zero-day exploitation & adversary tactics.
-- 💬 **Ask me about**: Why "security by design" is better than "security by patch."
-
----
-
-## 🔧 Security Arsenal
-
-| 🔴 Offensive Operations | 🔵 Defensive & Analysis | ☁️ Cloud & DevSecOps |
-| :--- | :--- | :--- |
-| **Tools:** Burp Suite, Metasploit | **Analysis:** Wireshark, Snort | **Cloud:** AWS, Azure, GCP |
-| **Web:** OWASP ZAP, SQLMap | **Vuln Mgmt:** Nessus, OpenVAS | **Ops:** Docker, K8s, Terraform |
-| **Wireless:** Aircrack-ng, Hashcat | **Audit:** Snyk, SonarQube | **CI/CD:** Jenkins, GitHub Actions |
+- 🔭 **Focus**: Advanced Pentesting & DevSecOps Automation.
+- ⚡ **Expertise**: Web/Cloud Security, Python Tooling, and SOC Monitoring.
+- 🧪 **Research**: AI-integrated security frameworks and Zero-Trust architecture.
+- 💬 **Ask me about**: Vulnerability research or building secure scalable infrastructure.
 
 ---
 
-## 💻 Technical Stack
-
-### 🚀 Core Technologies
+## 🏅 Certifications & Achievements
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,bash,git,docker,kubernetes,ansible,jenkins,aws,azure,gcp,nginx,prometheus,grafana,kali,burpsuite,python,postgresql,mongodb" />
+  <img src="https://img.shields.io/badge/-IBM%20Cybersecurity%20Analyst-326790?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Cybersec" />
+  <img src="https://img.shields.io/badge/-AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Sol Arch" />
+  <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/-AWS%20DevOps-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS DevOps" />
+  <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
 </p>
 
-### ✍️ Languages & Scripting
+---
+
+## 🔧 Security & Engineering Arsenal
+
+| 🔴 Offensive (Red) | 🔵 Defensive (Blue/SOC) | ☁️ Cloud & DevSecOps |
+| :--- | :--- | :--- |
+| Burp Suite, Kali Linux | Splunk, Wireshark, Snort | AWS, GCP, Azure |
+| Metasploit, SQLMap | Nessus, OpenVAS, Snyk | Docker, K8s, Terraform |
+| Aircrack-ng, Hashcat | SonarQube, Keycloak | Jenkins, GitHub Actions |
+
+---
+
+## 💻 Tech Stack (Multi-Domain)
+
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,kali,burpsuite,py,flask,fastapi,qt,sklearn,tensorflow,postgres,mongodb,docker,kubernetes,aws,gcp,azure,jenkins,githubactions,ansible,terraform,splunk,git,github,vscode,postman,cloudflare" />
+</p>
+
+### ✍️ Scripting & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -51,11 +61,6 @@ I am a **Cybersecurity Professional** specializing in **Web, Mobile, Cloud, and 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaspreet-infosec&theme=midnight-purple&layout=compact" />
 </p>
 
-### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/snake.svg?github_user=jaspreet-infosec&color_snake=25FF00&color_dots=bfbdbe,fbdb5c,ff9f46,fb6d4c,da2c43" alt="snake" />
-</p>
-
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=jaspreet-infosec&theme=midnight-purple&hide_border=false" />
 </p>
@@ -63,8 +68,6 @@ I am a **Cybersecurity Professional** specializing in **Web, Mobile, Cloud, and 
 ---
 
 ## 🤝 Let's Connect
-
-If you want to discuss security research, collaborate on a CTF, or just talk tech, find me here:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jaspreet-infosec/">
@@ -77,8 +80,6 @@ If you want to discuss security research, collaborate on a CTF, or just talk tec
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
-<br />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jaspreet-infosec&label=SECURE_ACCESS_COUNT&color=25FF00&style=flat-square" alt="Views" />
