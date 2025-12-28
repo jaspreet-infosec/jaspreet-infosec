@@ -34,10 +34,14 @@ I am a **Cybersecurity & DevOps Professional** focused on building resilient sys
   <img src="https://img.shields.io/badge/-Azure%20Security-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/-AWS%20DevOps-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <br>
   <img src="https://img.shields.io/badge/-EC--Council-000000?style=for-the-badge&logo=ec-council&logoColor=white" />
   <img src="https://img.shields.io/badge/-TryHackMe-212c42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   <img src="https://img.shields.io/badge/-PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</p>
 </p>
 
 ---
