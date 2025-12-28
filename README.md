@@ -1,7 +1,7 @@
 ### Hi 👋 My name is **JAS PREET**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=25FF00&vCenter=true&random=false&width=520&lines=Cyber+Security+Analyst;Penetration+Tester;Cloud+Security+Architect;DevOps+Security+Engineer)](https://git.io/typing-svg)
----
+
 
 <!-- Night Owl -->
 <div>
